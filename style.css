@@ -1,0 +1,148 @@
+body{
+    background-color:#ffbcdc;
+h1{
+    color: rgb(255, 255, 255);
+    font-size: 50pt;
+    font-family: superfruit;
+    text-align: center;
+}
+h2{
+    font-size: 50pt;
+    font-family: superfruit;
+    color:rgb(141, 28, 94);
+    text-align: center;
+}
+h3{
+    font-size: 18pt;
+    font-family: sans-serif;
+    color:rgb(255, 255, 255);
+   text-align: center;
+}
+p{
+    font-size: 15pt;
+    font-family: sans-serif;
+    color:rgb(194, 11, 102)
+
+
+}
+
+a:hover{
+transform: scale(1.1);
+}
+
+a{
+
+    display: block;
+    background-color: rgb(255, 255, 255);
+    padding: 10px 20px;
+    width: 10%;
+    height: 12px auto;
+    border-radius: 25px;
+  color: #0a8f9e;
+  text-decoration: none;
+margin: 0 auto;
+text-align: center;
+font-size: 14pt;
+font-weight: bold;
+font-family: sans-serif;
+  
+}
+div#Shoichi Aoki{
+      color: rgb(255, 255, 255);
+    font-family: "Josefin Sans", sans-serif;
+    text-align: left;
+    font-size: 80pt;
+}
+img:hover{
+    transform: scale(1.1);
+}
+.contenedor {
+  display: flex;             
+  align-items: flex-start;      
+  justify-content: center;   
+  gap: 40px;                
+  padding: 40px;
+}
+  .contenedor img {
+  width: 30%;               
+  height: auto;
+  border-radius: 10px;   
+        
+}
+.texto {            
+  color: rgb(194, 11, 102);             
+  font-family: sans-serif;
+   font-size: 20pt;                        
+  text-align: justify; 
+
+}
+.imagen-circular {
+  width: 400px;       
+  height: 400px;      
+  border-radius: 50%; 
+  object-fit: cover;  
+  display: block;  
+margin: 0 auto;
+}
+hr{
+ background-color: rgb(141, 28, 94) ;
+ height: 5px;
+ 
+}
+div#Harajuku{
+     color: rgb(255, 255, 255);             
+  font-family: sans-serif;
+   font-size: 15pt;
+      text-align: justify; 
+}
+.contenedor2 {
+ display: flex;             
+  align-items: flex-start;  
+justify-content: space-between; 
+  gap: 20px;                  
+  padding: 20px;
+}
+  .contenedor2 img {
+  width: 30%;               
+  height: auto;
+  border-radius: 10px;   
+  }
+.derecha{
+    display: flex;               
+  justify-content: flex-end;   
+  align-items: center;         
+  gap: 40px;                  
+  padding: 40px;
+  text-align: left;
+   color: rgb(255, 255, 255);             
+  font-family: sans-serif;
+   font-size: 15pt; 
+}
+
+.contenedor3 {
+  display: flex;             
+  align-items: flex-start;      
+  justify-content: center;   
+  gap: 40px;                
+  padding: 40px;
+}
+  .contenedor3 img {
+  width: 500px;       
+  height: 400px;      
+  border-radius: 50%; 
+  object-fit: cover;  
+ 
+        
+}
+ul{
+    font-size: 15pt;
+    font-family: sans-serif;
+    color:rgb(194, 11, 102); 
+}
+     ol{
+    font-size: 15pt;
+    font-family: sans-serif;
+    color:rgb(194, 11, 102); 
+}                
+
+}
